@@ -1,14 +1,22 @@
-# John Doe | Mechanical Engineer
-[LinkedIn](your-link) | [Resume (PDF)](your-link)
+# Randy Li | Mechanical Engineer
+[LinkedIn]((https://www.linkedin.com/in/randy-li-96a6a43ba/))
 
 ## About Me
-I am a mechanical design engineer specializing in robotics and consumer electronics.
+Mechanical engineer passionate about robotics, racing and 3D printing.
 
 ## Projects
 
-### 🤖 3-Axis Robotic Arm
-* Designed a custom 3-axis arm using **SolidWorks**.
-* Optimized structural brackets using **Ansys FEA**, reducing weight by **12%**.
-* 3D printed components in PLA and integrated **Arduino-controlled** servo motors.
+### Custom 3D Printer 
+120x120mm bed size cantilevered bed slinger
 
-![Robotic Arm Render](images/arm-render.png)
+
+### FIRST Tech Challenge Robot 2025-2026
+Competition robot designed to launch balls into a goal and intake balls off of the ground
+
+
+### Inverted Pendulum Cart 
+Balancing of a lightweight carbon fiber pendulum on an mgn rail cart driven by a brushless motor 
+
+
+### FIRST Tech Challenge Robot 2024-2025
+Competition robot designed for the Into The Deep season of FTC
