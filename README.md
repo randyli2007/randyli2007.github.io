@@ -20,6 +20,8 @@ Competition robot designed to launch balls into a goal and intake balls off of t
 ### Inverted Pendulum Cart 
 Balancing of a lightweight carbon fiber pendulum on an mgn rail cart driven by a brushless motor 
 
+[images](pendulum.md)
+
 
 ### FIRST Tech Challenge Robot 2024-2025
 Competition robot designed for the Into The Deep season of FTC
