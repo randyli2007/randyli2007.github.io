@@ -1,5 +1,5 @@
 # Randy Li | Mechanical Engineer
-[LinkedIn]((https://www.linkedin.com/in/randy-li-96a6a43ba/))
+[LinkedIn](https://www.linkedin.com/in/randy-li-96a6a43ba/)
 
 ## About Me
 Mechanical engineer passionate about robotics, racing and 3D printing.
