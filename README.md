@@ -8,7 +8,8 @@ Mechanical engineer passionate about robotics, racing and 3D printing.
 
 ### Custom 3D Printer 
 120x120mm bed size cantilevered bed slinger
-[Read the Setup Guide](3dprinter.md)
+
+[images](3dprinter.md)
 
 
 
