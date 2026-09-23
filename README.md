@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/randy-li-96a6a43ba/)
 
 ## About Me
-Mechanical engineering at UW-Madison passionat about all things robotics, racing and automation.
+Mechanical engineering at UW-Madison passionate about all things robotics, racing and automation.
 
 ## Projects
 
