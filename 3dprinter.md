@@ -1,7 +1,8 @@
 
-<video style="width: 100%; max-width: 640px; height: auto; aspect-ratio: 1920 / 1080;" controls preload="metadata">
+<video style="width: 100%; max-width: 640px; height: auto; aspect-ratio: 1920 / 1080;" autoplay muted loop playsinline controls preload="metadata">
 <source src="images/IMG_4229.mp4" type="video/mp4">
 </video>
+<p style="margin: 4px 0 12px; font-style: italic;">Write a short caption for this video here.</p>
 
 CAD
 

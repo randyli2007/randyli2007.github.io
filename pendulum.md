@@ -1,7 +1,8 @@
 
-<video width="640" height="360" controls>
+<video style="width: 100%; max-width: 360px; height: auto; aspect-ratio: 1080 / 1920; display: block;" autoplay muted loop playsinline controls preload="metadata">
 <source src="images/IMG_4384.mp4" type="video/mp4">
 </video>
+<p style="margin: 4px 0 12px; font-style: italic;">Write a short caption for this video here.</p>
 
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
 <div style="flex: 1.414 1 0; min-width: 0; display: flex; flex-direction: column; justify-content: flex-end;">

@@ -1,13 +1,15 @@
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
 <div style="flex: 0.5625 1 0; min-width: 0;">
-<video style="width: 100%; height: auto; aspect-ratio: 1080 / 1920; display: block;" controls preload="metadata">
+<video style="width: 100%; height: auto; aspect-ratio: 1080 / 1920; display: block;" autoplay muted loop playsinline controls preload="metadata">
 <source src="images/IMG_3791.mp4" type="video/mp4">
 </video>
+<p style="margin: 4px 0 12px; font-style: italic;">Write a short caption for this video here.</p>
 </div>
 <div style="flex: 1.7778 1 0; min-width: 0;">
-<video style="width: 100%; height: auto; aspect-ratio: 1920 / 1080; display: block;" controls preload="metadata">
+<video style="width: 100%; height: auto; aspect-ratio: 1920 / 1080; display: block;" autoplay muted loop playsinline controls preload="metadata">
 <source src="images/IMG_3830.mp4" type="video/mp4">
 </video>
+<p style="margin: 4px 0 12px; font-style: italic;">Write a short caption for this video here.</p>
 </div>
 </div>
 
