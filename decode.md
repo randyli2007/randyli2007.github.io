@@ -3,7 +3,7 @@ First Major Iteration (December)
      alt="20251219_035844599_iOS"
      style="width: 100%; max-width: 3024px; height: auto; display: block;" />
 
-Prepping for Worlds (March)
+Prepping for Worlds (Second Major Iteration) (March)
 <img src="https://github.com/user-attachments/assets/17764eb4-ee4e-428f-b774-c2846c19319e"
      alt="20260418_013440306_iOS"
      style="width: 100%; max-width: 2995px; height: auto; display: block;" />
