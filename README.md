@@ -18,7 +18,7 @@ Competition robot designed to launch balls into a goal and intake balls off of t
 
 ### Inverted Pendulum Cart 
 Balancing of a lightweight carbon fiber pendulum on an mgn rail cart driven by a brushless motor 
-[images](pendulum.md)
+[images / videos](pendulum.md)
 
 ### UW Madison Racing
 New member, working on a parking brake redesign, optimization of brake system and various other parts
