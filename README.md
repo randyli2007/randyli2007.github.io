@@ -8,12 +8,12 @@ Mechanical engineering at UW-Madison, passionate about all things robotics, raci
 
 ### Custom 3D Printer 
 120x120mm bed size cantilevered bed slinger
-[images](3dprinter.md)
+[images/video](3dprinter.md)
 
 
 ### FIRST Tech Challenge Robot 2025-2026
 Competition robot designed to launch balls into a goal and intake balls off of the ground (lead mechanical engineer) 
-[images](decode.md)
+[images/video](decode.md)
 
 
 ### Inverted Pendulum Cart 
