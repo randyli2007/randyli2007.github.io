@@ -1,4 +1,11 @@
-<div style="display: flex; gap: 8px; margin-bottom: 8px;">
+<style>
+@media (max-width: 700px) {
+.stack-mobile { flex-direction: column !important; }
+.stack-mobile > div { flex: none !important; width: 100% !important; }
+}
+</style>
+
+<div class="stack-mobile" style="display: flex; gap: 8px; margin-bottom: 8px;">
 <div style="flex: 0.5625 1 0; min-width: 0;">
 <video style="width: 100%; height: auto; aspect-ratio: 1080 / 1920; display: block;" autoplay muted loop playsinline controls preload="metadata">
 <source src="images/IMG_3791.mp4" type="video/mp4">
